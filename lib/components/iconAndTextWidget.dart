@@ -9,7 +9,7 @@ class IconLogo extends StatefulWidget {
     required this.logoSize,
     this.letterStyle = const TextStyle(
       fontWeight: FontWeight.bold,
-      fontSize: 60.0,
+      fontSize: 30.0,
       color: Colors.white,
     ),
   });
